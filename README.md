@@ -1,5 +1,6 @@
 # CV
 Click the link for a full screen/downloadable copy 
+
 [Ryan Daley CV.pdf](https://github.com/Ryan-Daley/CV/files/10833590/Ryan.Daley.CV.pdf)
 
 
